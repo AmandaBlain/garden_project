@@ -5,6 +5,8 @@
   
   h1 {
     color: SeaGreen;
+    text-align: center;
+    border: 3px solid green;
   }
   
   
